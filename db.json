@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "p1",
+      "label": "From service Cafe",
+      "unitPrice": 500.5
+    },
+    {
+      "id": 2,
+      "code": "p2",
+      "label": "Tea",
+      "unitPrice": 800.5
+    },
+    {
+      "id": 3,
+      "code": "p3",
+      "label": "Jus",
+      "unitPrice": 400.5
+    },
+    {
+      "id": 4,
+      "code": "p4",
+      "label": "Coca-cola",
+      "unitPrice": 600.5
+    },
+    {
+      "id": 5,
+      "code": "p5",
+      "label": "Water",
+      "unitPrice": 600.5
+    },
+    {
+      "id": 9,
+      "code": "p9",
+      "label": "Jus Fraise",
+      "unitPrice": 1000.5
+    }
+  ]
+}
